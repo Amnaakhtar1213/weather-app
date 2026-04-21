@@ -2,7 +2,7 @@
 
 ##  WEATHER-APP
 
-A simple weather app that let you know about current weather.It display tempreture, humidity, weather description and it also show weather emoji.Here i use *[openWeatherMap API]*. Just type any city name and see current weather.
+A simple weather app that let you know about current weather.It display tempreture, humidity, weather description and it also show weather emoji.Here i use *[openWeatherMap API]*. Just type any city name and see current weather.It display error message also when the city is not available in the API.
 
 -----
 
@@ -21,7 +21,7 @@ A simple weather app that let you know about current weather.It display tempretu
 
 1. **HTML**
 2. **CSS**
-3. **JAASCRIPT**
+3. **JAVASCRIPT**
 
 -----
 
