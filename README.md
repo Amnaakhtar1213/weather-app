@@ -13,7 +13,7 @@ I have correct this by:
 - Creating a 'config.example.js' file with a placeholder key to show others how to set up their own API  key.
 
 -----
-##  Setuo
+##  Setup
 
 1. copy 'config.example.js' into your 'config.js'
 2. Insert your own API key inside 'config.js'
