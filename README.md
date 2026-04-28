@@ -2,11 +2,11 @@
 
 ##  WEATHER-APP
 
-A simple weather app that let you know about current weather.It display tempreture, humidity, weather description and it also show weather emoji.Here i use *[openWeatherMap API]*. 
+A simple weather app that let you know about current weather.It display temperature, humidity, weather description and it also show weather emoji.Here i use *[openWeatherMap API]*. 
 
 ##  Important note on API key security
 
-In the early version of this project , my private API key was accidently push to the public repository.
+In the early version of this project , By accident my private API was push to the public repository.
 I have correct this by:
 - Moving the real API into a separate 'config.js'file.
 - Adding 'config.js' file into the 'gitignore' file so it never be exposed.
@@ -22,7 +22,7 @@ I have correct this by:
 ##  Features
 
 -  Search for weather by city name
--  Show temprature in Celsius
+-  Show temperature in Celsius
 -  Display humidity and weather description
 -  Add weather emojis(☀️ 🌩️ 🌧️ ❄️ etc.)
 -  Error handling if the city not found.
@@ -39,7 +39,9 @@ I have correct this by:
 -----
 
 ##  How to run
-[Click here to view the repository](https://github.com/Amnaakhtar1213/weather-app.git)
+[Click here to view the live demo](https://amnaakhtar1213.github.io/weather-app/)
+
+## Clone the Repository
 ```bash
 git clone https://github.com/Amnaakhtar1213/weather-app.git
 
