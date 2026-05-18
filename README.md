@@ -1,6 +1,6 @@
 
 
-##  WEATHER-APP
+##  WEATHER-APP 🌦️
 
 A simple weather app that let you know about current weather.It display temperature, humidity, weather description and it also show weather emoji.Here i use *[openWeatherMap API]*. 
 
@@ -19,7 +19,7 @@ I have correct this by:
 2. Insert your own API key inside 'config.js'
 3. open 'index.html' into the browser. 
 
-##  Features
+##  Features 🚀
 
 -  Search for weather by city name
 -  Show temperature in Celsius
@@ -30,7 +30,7 @@ I have correct this by:
 
 ------
 
-## Technology
+## Technology 🛠️
 
 1. **HTML**
 2. **CSS**
@@ -38,8 +38,21 @@ I have correct this by:
 
 -----
 
-##  How to run
-[Click here to view the live demo](https://amnaakhtar1213.github.io/weather-app/)
+##  How to run ⚡
+
+-----------------
+
+## SCREENSHOTS 🖼️
+
+Here's the quick preview:
+- [Click here for web-app screenshot](ss.png)
+
+-------------------------------
+
+## LIVE DEMO 🌐
+
+Here's take a quick lookup yourself:
+- [Click here to view the live demo](https://amnaakhtar1213.github.io/weather-app/)
 
 ## Clone the Repository
 ```bash
