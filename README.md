@@ -54,6 +54,7 @@ Here's the quick preview:
 Here's take a quick lookup yourself:
 - [Click here to view the live demo](https://amnaakhtar1213.github.io/weather-app/)
 
+-------------------------------
 ## Clone the Repository
 ```bash
 git clone https://github.com/Amnaakhtar1213/weather-app.git
