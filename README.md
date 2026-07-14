@@ -1,4 +1,6 @@
-
+⚠️ Note: For demo purposes, the OpenWeatherMap API key is included directly in script.js. 
+In production, API keys should be hidden using environment variables or a backend proxy. 
+This project is frontend-only for portfolio demonstration.
 
 ##  WEATHER-APP 🌦️
 
@@ -11,13 +13,9 @@ I have correct this by:
 - Moving the real API into a separate 'config.js'file.
 - Adding 'config.js' file into the 'gitignore' file so it never be exposed.
 - Creating a 'config.example.js' file with a placeholder key to show others how to set up their own API  key.
+- I did i but it did not work without using any backend servics so i made api publically .
 
 -----
-##  Setup
-
-1. copy 'config.example.js' into your 'config.js'
-2. Insert your own API key inside 'config.js'
-3. open 'index.html' into the browser. 
 
 ##  Features 🚀
 
